@@ -15,7 +15,6 @@ This project involves the development of an AI-powered security camera system us
 - OpenCV
 - FER (Facial Expression Recognition)
 - TensorFlow
-- Google Colab (for model training using L4 and T4 GPUs)
 
 ## Contributors
 - [Saad Irfan](https://github.com/saadirfan-SI)
